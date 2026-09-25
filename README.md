@@ -372,9 +372,6 @@ Energy solutions & industrial maintenance
 **Design & Development**
 Miloud Kara
 
-**Portfolio**
-Brand Identity · UI/UX · Digital Experiences · Creative Direction
-
 ---
 
 <p align="center">
