@@ -364,3 +364,19 @@ Energy solutions & industrial maintenance
 ### Quick Links
 
 [Home](index.html) · [About](about/index.html) · [Solutions](solutions/index.html) · [Products](products/index.html) · [Projects](projects/index.html) · [Contact](contact/index.html)
+
+---
+
+## Credits
+
+**Design & Development**
+Miloud Kara
+
+**Portfolio**
+Brand Identity · UI/UX · Digital Experiences · Creative Direction
+
+---
+
+<p align="center">
+  <strong>© 2026 Miloud Kara</strong><br>
+</p>
