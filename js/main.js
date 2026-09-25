@@ -462,7 +462,7 @@
   "Découvrir le service ↗": "اكتشاف الخدمة ↗",
   "Du groupe à l’installation électrique": "من المولد إلى التركيب الكهربائي",
   "Voir les solutions ↗": "عرض الحلول ↗",
-  "Des données vérifiables.": ".بيانات قابلة للتحقق",
+  "Des données vérifiables.": "بيانات قابلة للتحقق.",
   "Parlons de votre besoin en énergie.": "لنتحدث عن احتياجاتك من الطاقة.",
   "Téléphone général": "الهاتف العام",
   "Email commercial": "البريد التجاري",
