@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width,initial-scale=1" name="viewport"/>
+    <meta content="Réalisations EMIRE : projets par secteurs, installations industrielles, construction, événements et solutions agricoles." name="description"/>
+    <meta content="#0d1720" name="theme-color"/>
+
+    <script>
+        (function(){
+            try {
+                var saved = localStorage.getItem("emire-lang-v5");
+                var langs = Array.isArray(navigator.languages) && navigator.languages.length
+                    ? navigator.languages
+                    : [navigator.language || ""];
+                var lang = saved || "en";
+
+                if (!saved) {
+                    for (var i = 0; i < langs.length; i++) {
+                        var c = String(langs[i]).toLowerCase();
+
+                        if (c.indexOf("ar") === 0) {
+                            lang = "ar";
+                            break;
+                        }
+
+                        if (c.indexOf("en") === 0) {
+                            lang = "en";
+                            break;
+                        }
+
+                        if (c.indexOf("fr") === 0) {
+                            lang = "fr";
+                            break;
+                        }
+                    }
+                }
+
+                document.documentElement.lang = lang;
+                document.documentElement.dir = lang === "ar" ? "rtl" : "ltr";
+            } catch(e) {}
+        })();
+    </script>
+
+    <title>Réalisations — EMIRE</title>
+
+    <link href="../css/main.css" rel="stylesheet"/>
+    <link rel="icon" type="image/svg+xml" href="../favicon/Frame 4.svg">
+</head>
+
+<body>
+
+    <header class="site-header">
+        <nav
+            aria-label="Navigation principale"
+            class="nav container">
+
+            <a class="logo" href="../index.html" aria-label="EMIRE">
+                <img src="../logo/emire-black-simple.png" alt="EMIRE">
+                </a>
+
+            <div class="nav-links">
+
+                <a
+                    class=""
+                    href="../index.html">
+                    Accueil
+                </a>
+
+                <a
+                    class=""
+                    href="../about/index.html">
+                    À propos
+                </a>
+
+                <a
+                    class=""
+                    href="../solutions/index.html">
+                    Solutions
+                </a>
+
+                <a
+                    class=""
+                    href="../products/index.html">
+                    Produits
+                </a>
+
+                <a
+                    class="active"
+                    href="../projects/index.html">
+                    Réalisations
+                </a>
+
+                <a
+                    class=""
+                    href="../industries/index.html">
+                    Secteurs
+                </a>
+
+                <a
+                    class=""
+                    href="../news/index.html">
+                    Ressources
+                </a>
+
+            </div>
+
+            <div class="nav-actions">
+
+                <div
+                    class="lang-switch"
+                    data-lang-switch="">
+
+                    <button
+                        aria-expanded="false"
+                        aria-haspopup="true"
+                        aria-label="Choisir la langue"
+                        class="lang-trigger"
+                        type="button">
+                        <span class="lang-current">FR</span>
+                        <span
+                            aria-hidden="true"
+                            class="lang-chevron">
+                            ⌄
+                        </span>
+                    </button>
+
+                    <div
+                        class="lang-menu"
+                        role="menu">
+
+                        <button
+                            class="lang-option"
+                            data-lang="fr"
+                            role="menuitem"
+                            type="button">
+                            <span>FR</span>
+                            <small>Français</small>
+                        </button>
+
+                        <button
+                            class="lang-option"
+                            data-lang="en"
+                            role="menuitem"
+                            type="button">
+                            <span>EN</span>
+                            <small>English</small>
+                        </button>
+
+                        <button
+                            class="lang-option"
+                            data-lang="ar"
+                            role="menuitem"
+                            type="button">
+                            <span>AR</span>
+                            <small>العربية</small>
+                        </button>
+
+                    </div>
+
+                </div>
+
+                <a
+                    class="btn btn-dark desktop-only"
+                    href="../contact/index.html">
+                    Demander un devis ↗
+                </a>
+
+                <button
+                    aria-expanded="false"
+                    aria-label="Ouvrir le menu"
+                    class="menu-btn"
+                    data-menu=""></button>
+
+            </div>
+
+        </nav>
+    </header>
+
+    <main>
+
+        <section class="page-hero">
+            <div class="container">
+
+                <div class="page-hero-inner">
+
+                    <div class="page-hero-copy">
+
+                        <div class="eyebrow">
+                            Réalisations
+                        </div>
+
+                        <h1 class="h2">
+                            Des solutions personnalisées pour chaque secteur.
+                        </h1>
+
+                        <p class="lead">
+                            La page officielle des réalisations organise les projets par secteurs, notamment Agricole, Industrie et Santé. L’accueil ajoute également la construction et les événements.
+                        </p>
+
+                    </div>
+
+                    <div class="page-image">
+
+                        <img
+                            alt="Projet de groupe électrogène industriel"
+                            decoding="async"
+                            loading="lazy"
+                            src="../assets/industrial-site.svg"/>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="container">
+
+                <div class="project-gallery">
+
+                    <article class="project-feature reveal">
+
+                        <div class="project-media">
+
+                            <img
+                                alt="Industrial generator-set installation"
+                                decoding="async"
+                                loading="lazy"
+                                src="../assets/factory-power.svg"
+                                class="media-illustration">
+
+                        </div>
+
+                        <div class="project-info">
+
+                            <small>
+                                Industry
+                            </small>
+
+                            <h3>
+                                Power installation for a demanding industrial environment.
+                            </h3>
+
+                            <p>
+                                A clear presentation of the generator, its electrical integration and the operating context — without compressing the story into an overlay.
+                            </p>
+
+                            <span class="project-link">
+                                Explore the sector ↗
+                            </span>
+
+                        </div>
+
+                    </article>
+
+                    <article class="project-card project-card-clean reveal">
+
+                        <div class="project-media">
+
+                            <img
+                                alt="Generator-set power for a construction site"
+                                decoding="async"
+                                loading="lazy"
+                                src="../assets/construction-power.svg"
+                                class="media-illustration">
+
+                        </div>
+
+                        <div class="project-info">
+
+                            <small>
+                                Construction
+                            </small>
+
+                            <h3>
+                                Reliable temporary power for large construction sites.
+                            </h3>
+
+                            <p>
+                                Power supply designed around site continuity, equipment demand and installation constraints.
+                            </p>
+
+                        </div>
+
+                    </article>
+
+                    <article class="project-card project-card-clean reveal">
+
+                        <div class="project-media">
+
+                            <img
+                                alt="Containerized generator set"
+                                decoding="async"
+                                loading="lazy"
+                                src="../assets/genset-container.svg"
+                                class="media-illustration">
+
+                        </div>
+
+                        <div class="project-info">
+
+                            <small>
+                                Events &amp; temporary sites
+                            </small>
+
+                            <h3>
+                                Protected, mobile generation when the installation has to move.
+                            </h3>
+
+                            <p>
+                                A containerized configuration for environments where protection, mobility and dependable power matter.
+                            </p>
+
+                        </div>
+
+                    </article>
+
+                </div>
+
+            </div>
+        </section>
+
+        <section class="section section-tone">
+            <div class="container">
+
+                <div class="section-head">
+
+                    <div>
+
+                        <div class="eyebrow">
+                            Secteurs publiés
+                        </div>
+
+                        <h2
+                            class="h2"
+                            style="margin-top:16px">
+                            Agricole · Industrie · Santé.
+                        </h2>
+
+                    </div>
+
+                    <p class="lead">
+                        Les filtres de la page « Réalisations » du site EMIRE citent ces trois catégories. Les contenus détaillés de certaines galeries publiques restent incomplets ; cette version n’invente donc pas de noms de clients ou de projets.
+                    </p>
+
+                </div>
+
+                <div
+                    class="cap-grid"
+                    style="margin-top:38px">
+
+                    <article class="cap-card">
+                        <span class="cap-no">01</span>
+                        <h3>Agricole</h3>
+                        <p>
+                            Solutions d’énergie sur mesure adaptées aux exploitations agricoles.
+                        </p>
+                    </article>
+
+                    <article class="cap-card">
+                        <span class="cap-no">02</span>
+                        <h3>Industrie</h3>
+                        <p>
+                            Génération, intégration électrique et maintenance pour les sites industriels.
+                        </p>
+                    </article>
+
+                    <article class="cap-card">
+                        <span class="cap-no">03</span>
+                        <h3>Santé</h3>
+                        <p>
+                            Continuité d’alimentation pour les environnements de soin et équipements vitaux.
+                        </p>
+                    </article>
+
+                </div>
+
+            </div>
+        </section>
+
+        <section class="trust-section">
+            <div class="container">
+
+                <div class="trust-band reveal">
+
+                    <div class="trust-cols">
+
+                        <div>
+
+                            <div class="eyebrow eyebrow-light">
+                                Ils nous ont fait confiance
+                            </div>
+
+                            <h2
+                                class="h2"
+                                style="margin-top:16px">
+                                Des environnements où la disponibilité compte.
+                            </h2>
+
+                        </div>
+
+                        <div>
+
+                            <p class="lead invert">
+                                EMIRE met en avant des interventions dans des contextes industriels, agricoles et de santé, avec des solutions de construction et d’événements présentées sur l’accueil.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="site-footer">
+
+        <div class="container footer-grid">
+
+            <div class="footer-brand">
+
+                <a class="logo" href="../index.html" aria-label="EMIRE">
+                <img src="../logo/emire-white-simple.png" alt="EMIRE">
+                </a>
+
+                <p>
+                    Expert en solutions d’énergie et maintenance industrielle. Fabrication et commercialisation de groupes électrogènes sous la marque EMIREGENSET.
+                </p>
+
+            </div>
+
+            <div>
+
+                <div class="footer-title">
+                    Navigation
+                </div>
+
+                <div class="footer-links">
+                    <a href="../index.html">Accueil</a>
+                    <a href="../about/index.html">À propos</a>
+                    <a href="../solutions/index.html">Solutions</a>
+                    <a href="../products/index.html">Produits</a>
+                </div>
+
+            </div>
+
+            <div>
+
+                <div class="footer-title">
+                    Expertise
+                </div>
+
+                <div class="footer-links">
+                    <a href="../projects/index.html">Réalisations</a>
+                    <a href="../industries/index.html">Secteurs</a>
+                    <a href="../news/index.html">Ressources</a>
+                    <a href="../contact/index.html">Contact</a>
+                </div>
+
+            </div>
+
+            <div>
+
+                <div class="footer-title">
+                    Contact
+                </div>
+
+                <div class="footer-links">
+                    <a href="tel:+21323920634">+213 23 92 06 34</a>
+                    <a href="mailto:commercial@emire-dz.com">commercial@emire-dz.com</a>
+                    <span>Oued Smar · Alger</span>
+                    <span>Hassi Ben Abdellah · Ouargla</span>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="container footer-bottom">
+
+            <span>
+                © <span data-year=""></span> EURL EMIRE
+            </span>
+
+            <span>
+                EMIREGENSET · Algérie
+            </span>
+
+        </div>
+
+    </footer>
+
+    <script src="../js/main.js"></script>
+
+</body>
+
+</html>
