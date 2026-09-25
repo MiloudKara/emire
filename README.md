@@ -292,52 +292,6 @@ Each section maintains its own HTML entry point.
 
 ---
 
-## ⚠️ Before Deployment
-
-Before publishing a new version:
-
-* [ ] Test navigation on desktop
-* [ ] Test navigation on mobile
-* [ ] Test every CTA
-* [ ] Test every internal link
-* [ ] Check product images
-* [ ] Check contact forms
-* [ ] Check language selector
-* [ ] Check tables on mobile
-* [ ] Check pages at 360px width
-* [ ] Check pages at 480px width
-* [ ] Check pages at tablet width
-* [ ] Verify favicon / metadata
-* [ ] Verify page titles
-* [ ] Verify descriptions
-* [ ] Verify production asset paths
-
----
-
-## ↗ Important Navigation Rule
-
-Internal links should use paths that remain valid from their current page depth.
-
-For example:
-
-```html
-<!-- From the homepage -->
-<a href="products/index.html">Products</a>
-
-<!-- From a nested page -->
-<a href="../products/index.html">Products</a>
-```
-
-Avoid hard-coding development URLs such as:
-
-```text
-localhost:8000/...
-```
-
-Production navigation should remain independent from the local development server.
-
----
-
 ## ◐ Mobile Navigation
 
 The mobile navigation is intentionally separated from the desktop navigation behavior.
@@ -425,5 +379,3 @@ Energy solutions & industrial maintenance
 ### Quick Links
 
 [Home](index.html) · [About](about/index.html) · [Solutions](solutions/index.html) · [Products](products/index.html) · [Projects](projects/index.html) · [Contact](contact/index.html)
-
-If you want it to look **even more presentation-ready on GitHub**, I’d replace the plain text badges with a more editorial header/hero layout and add a **“Preview / Pages / Tech / Structure” button row** at the top.
