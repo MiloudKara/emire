@@ -1,10 +1,5 @@
 # EMIRE · Corporate Website
 
-**EURL EMIRE · EMIREGENSET**
-Energy solutions & industrial maintenance
-
----
-
 ## ✦ Overview
 
 EMIRE is an Algerian company specializing in **generator sets, electrical installations, industrial maintenance and energy solutions**.
