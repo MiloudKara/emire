@@ -1,0 +1,14 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" preserveAspectRatio="xMidYMid meet">
+<ns0:defs><ns0:linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><ns0:stop stop-color="#eaf1f5" /><ns0:stop offset="1" stop-color="#a4b7c4" /></ns0:linearGradient><ns0:linearGradient id="cab" x1="0" y1="0" x2="1" y2="1"><ns0:stop stop-color="#ffffff" /><ns0:stop offset="1" stop-color="#bccad2" /></ns0:linearGradient></ns0:defs>
+<ns0:g transform="translate(235 105)">
+ <ns0:path d="M0 550L84 35L690 0L760 540Z" fill="#8ea3af" opacity=".25" />
+ <ns0:rect x="55" y="74" width="650" height="480" rx="24" fill="url(#cab)" stroke="#7c919e" stroke-width="5" />
+ <ns0:rect x="92" y="116" width="184" height="188" rx="16" fill="#eef4f7" stroke="#b7c6cf" stroke-width="3" />
+ <ns0:rect x="300" y="116" width="184" height="188" rx="16" fill="#eef4f7" stroke="#b7c6cf" stroke-width="3" />
+ <ns0:rect x="508" y="116" width="160" height="188" rx="16" fill="#eef4f7" stroke="#b7c6cf" stroke-width="3" />
+ <ns0:path d="M184 336v126M392 336v126M588 336v126" stroke="#526b7a" stroke-width="8" />
+ <ns0:path d="M140 464h500" stroke="#315469" stroke-width="9" stroke-linecap="round" />
+ <ns0:g fill="#2f91e2"><ns0:circle cx="140" cy="464" r="18" /><ns0:circle cx="250" cy="464" r="18" /><ns0:circle cx="360" cy="464" r="18" /><ns0:circle cx="470" cy="464" r="18" /><ns0:circle cx="580" cy="464" r="18" /></ns0:g>
+ <ns0:rect x="562" y="72" width="92" height="36" rx="18" fill="#0f4e85" /><ns0:circle cx="605" cy="90" r="13" fill="#a9ecff" />
+</ns0:g>
+</ns0:svg>

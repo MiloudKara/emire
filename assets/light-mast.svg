@@ -1,0 +1,6 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid meet">
+<ns0:defs><ns0:linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><ns0:stop stop-color="#75c9ff" /><ns0:stop offset="1" stop-color="#eaf7ff" /></ns0:linearGradient></ns0:defs>
+<ns0:g stroke="#243241" stroke-linecap="round"><ns0:path d="M450 610 L560 150" stroke-width="18" /><ns0:path d="M560 150 L420 95" stroke-width="10" /><ns0:path d="M560 150 L700 95" stroke-width="10" /><ns0:path d="M560 150 L560 65" stroke-width="10" /></ns0:g>
+<ns0:g fill="#fff9d6" opacity=".95"><ns0:circle cx="420" cy="95" r="18" /><ns0:circle cx="700" cy="95" r="18" /><ns0:circle cx="560" cy="65" r="18" /></ns0:g>
+<ns0:g fill="#fff" opacity=".36"><ns0:path d="M420 95 L250 20 L340 170 Z" /><ns0:path d="M700 95 L870 20 L780 170 Z" /><ns0:path d="M560 65 L560 0 L640 130 Z" /></ns0:g>
+</ns0:svg>

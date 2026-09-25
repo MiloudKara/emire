@@ -1,0 +1,17 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" preserveAspectRatio="xMidYMid meet">
+<ns0:defs>
+ <ns0:linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><ns0:stop stop-color="#071725" /><ns0:stop offset=".62" stop-color="#1b5074" /><ns0:stop offset="1" stop-color="#75b8d7" /></ns0:linearGradient>
+ <ns0:linearGradient id="box" x1="0" y1="0" x2="0" y2="1"><ns0:stop stop-color="#194c68" /><ns0:stop offset="1" stop-color="#0a2639" /></ns0:linearGradient>
+</ns0:defs>
+<ns0:g transform="translate(125 215)">
+ <ns0:rect x="0" y="50" width="900" height="410" rx="12" fill="url(#box)" stroke="#8fd5f4" stroke-opacity=".55" stroke-width="3" />
+ <ns0:g stroke="#5b8196" stroke-width="2" opacity=".7"><ns0:path d="M60 70V440M160 70V440M260 70V440M360 70V440M460 70V440M560 70V440M660 70V440M760 70V440M860 70V440" /></ns0:g>
+ <ns0:rect x="65" y="108" width="330" height="250" rx="18" fill="#0e3550" stroke="#65bce7" stroke-opacity=".4" />
+ <ns0:rect x="105" y="150" width="250" height="55" rx="11" fill="#0a2030" />
+ <ns0:circle cx="140" cy="178" r="10" fill="#9ee7ff" /><ns0:circle cx="174" cy="178" r="10" fill="#f5d37c" /><ns0:circle cx="208" cy="178" r="10" fill="#8de5a9" />
+ <ns0:rect x="455" y="114" width="360" height="240" rx="14" fill="#d9e7ee" opacity=".16" />
+ <ns0:path d="M470 150h330M470 184h330M470 218h330M470 252h330M470 286h330" stroke="#d2eef8" stroke-opacity=".18" stroke-width="7" />
+ <ns0:rect x="26" y="22" width="845" height="28" rx="10" fill="#081b2a" opacity=".9" />
+ <ns0:path d="M0 452h900" stroke="#75c6e8" stroke-opacity=".45" stroke-width="6" />
+</ns0:g>
+</ns0:svg>

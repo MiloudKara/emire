@@ -1,0 +1,10 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid meet">
+<ns0:defs><ns0:linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><ns0:stop stop-color="#dff0ff" /><ns0:stop offset="1" stop-color="#78b8f4" /></ns0:linearGradient><ns0:linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><ns0:stop stop-color="#2f8de8" /><ns0:stop offset="1" stop-color="#0a4c9b" /></ns0:linearGradient></ns0:defs>
+<ns0:g transform="translate(105 205)"><ns0:rect x="0" y="80" width="990" height="260" rx="18" fill="url(#b)" stroke="#fff" stroke-opacity=".25" stroke-width="3" />
+<ns0:rect x="45" y="115" width="240" height="185" rx="12" fill="#0e2b4e" />
+<ns0:rect x="80" y="140" width="170" height="70" rx="8" fill="#020910" />
+<ns0:circle cx="95" cy="260" r="10" fill="#58d492" /><ns0:circle cx="120" cy="260" r="10" fill="#f0bf4d" />
+<ns0:g fill="#092b51"><ns0:rect x="335" y="112" width="120" height="196" rx="12" /><ns0:rect x="475" y="112" width="120" height="196" rx="12" /><ns0:rect x="615" y="112" width="120" height="196" rx="12" /><ns0:rect x="755" y="112" width="120" height="196" rx="12" /></ns0:g>
+<ns0:path d="M70 80 L115 18 L340 18 L380 80" fill="#e6f1fb" opacity=".34" />
+<ns0:path d="M760 18 C855 18 880 60 925 65" fill="none" stroke="#101820" stroke-width="18" stroke-linecap="round" />
+</ns0:g></ns0:svg>

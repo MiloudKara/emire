@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" preserveAspectRatio="xMidYMid meet">
+<ns0:defs><ns0:linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><ns0:stop stop-color="#0d1d2b" /><ns0:stop offset="1" stop-color="#3e778f" /></ns0:linearGradient><ns0:linearGradient id="jack" x1="0" y1="0" x2="1" y2="1"><ns0:stop stop-color="#2e91e3" /><ns0:stop offset="1" stop-color="#0b4178" /></ns0:linearGradient></ns0:defs>
+<ns0:g transform="translate(120 120)">
+ <ns0:rect x="0" y="310" width="960" height="260" rx="28" fill="#102735" />
+ <ns0:rect x="80" y="366" width="720" height="132" rx="16" fill="url(#jack)" />
+ <ns0:g stroke="#b9e8ff" stroke-width="5" opacity=".55"><ns0:path d="M110 396h660M110 430h660M110 464h660" /></ns0:g>
+ <ns0:g fill="#dbe7ee"><ns0:circle cx="830" cy="408" r="50" /><ns0:circle cx="830" cy="484" r="50" /></ns0:g>
+ <ns0:g stroke="#406171" stroke-width="7"><ns0:path d="M830 358v100M780 408h100M830 434v100M780 484h100" /></ns0:g>
+ <ns0:path d="M250 570v80M710 570v80" stroke="#5a7686" stroke-width="16" />
+ <ns0:path d="M200 650h560" stroke="#0a1822" stroke-width="22" stroke-linecap="round" />
+ <ns0:g transform="translate(425 60)"><ns0:circle cx="60" cy="70" r="55" fill="#d7e3e8" /><ns0:path d="M20 150h80l35 150H-15Z" fill="#8aa4b1" /><ns0:path d="M10 150h100" stroke="#dae7ed" stroke-width="14" /><ns0:path d="M25 300h35v74H25zM85 300h35v74H85z" fill="#456273" /></ns0:g>
+</ns0:g>
+</ns0:svg>

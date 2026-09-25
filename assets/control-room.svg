@@ -1,0 +1,15 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" preserveAspectRatio="xMidYMid meet">
+<ns0:defs><ns0:linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><ns0:stop stop-color="#0a1621" /><ns0:stop offset="1" stop-color="#285d77" /></ns0:linearGradient><ns0:linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><ns0:stop stop-color="#80d8ff" /><ns0:stop offset="1" stop-color="#2c77d7" /></ns0:linearGradient></ns0:defs>
+<ns0:g transform="translate(110 140)">
+ <ns0:rect x="0" y="0" width="980" height="510" rx="28" fill="#0d1e2c" stroke="#5eaad2" stroke-opacity=".45" stroke-width="3" />
+ <ns0:rect x="42" y="42" width="390" height="180" rx="18" fill="#102b3d" />
+ <ns0:rect x="468" y="42" width="470" height="180" rx="18" fill="#102b3d" />
+ <ns0:rect x="42" y="250" width="896" height="215" rx="18" fill="#102432" />
+ <ns0:rect x="68" y="68" width="336" height="126" rx="12" fill="url(#screen)" opacity=".92" />
+ <ns0:path d="M84 152 C120 122 156 168 194 126 S270 163 312 112 S366 139 390 100" fill="none" stroke="#eaf8ff" stroke-width="6" />
+ <ns0:g fill="#bcecff"><ns0:rect x="520" y="76" width="120" height="18" rx="9" /><ns0:rect x="520" y="112" width="280" height="12" rx="6" /><ns0:rect x="520" y="140" width="240" height="12" rx="6" /><ns0:rect x="520" y="168" width="180" height="12" rx="6" /></ns0:g>
+ <ns0:g fill="#2f8fe1"><ns0:circle cx="94" cy="294" r="12" /><ns0:circle cx="146" cy="294" r="12" /><ns0:circle cx="198" cy="294" r="12" /><ns0:circle cx="250" cy="294" r="12" /></ns0:g>
+ <ns0:path d="M74 420h820" stroke="#31556a" stroke-width="3" />
+ <ns0:g stroke="#5ba8ce" stroke-width="8" stroke-linecap="round"><ns0:path d="M90 395V340M155 395V316M220 395V360M285 395V328M350 395V300M415 395V346M480 395V318M545 395V335M610 395V290M675 395V345M740 395V313M805 395V335" /></ns0:g>
+</ns0:g>
+</ns0:svg>
