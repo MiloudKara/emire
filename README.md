@@ -1,9 +1,3 @@
-# emire.github.io
-
-Absolutely — for the EMIRE website, I’d make the README feel like a **small polished project document**, not a generic developer README.
-
-Here’s a clean, presentable version you can drop directly into `README.md`:
-
 # EMIRE · Corporate Website
 
 **EURL EMIRE · EMIREGENSET**
