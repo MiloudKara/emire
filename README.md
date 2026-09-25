@@ -3,10 +3,6 @@
 **EURL EMIRE · EMIREGENSET**
 Energy solutions & industrial maintenance
 
-  
-
-> A responsive corporate website for **EURL EMIRE**, presenting its energy solutions, generator sets, electrical equipment, projects, services and industrial expertise.
-
 ---
 
 ## ✦ Overview
